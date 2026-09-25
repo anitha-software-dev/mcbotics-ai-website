@@ -2,6 +2,8 @@
 
 > Modern AI-focused website showcasing McBoticsAI's next-gen automation solutions and capabilities.
 
+🌐 **Live Website**: [https://mcbotics.com](https://mcbotics.com)
+
 A sleek, responsive, dark-mode SaaS and enterprise landing platform built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. It highlights AI automation workflows, scalable architecture frameworks, service offerings, and IP protection capabilities.
 
 ---
